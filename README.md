@@ -24,7 +24,7 @@ Technical Details
 - Platform: Android (Java/Kotlin)
 - Database: Firebase Realtime Database
 - API Integration: Cafeteria management system
-- Development Time: 5 days
+- Development Time: 2 days
 
 Working Of Our Project
 ---------------------
