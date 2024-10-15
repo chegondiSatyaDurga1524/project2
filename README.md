@@ -26,6 +26,14 @@ Technical Details
 - API Integration: Cafeteria management system
 - Development Time: 5 days
 
+Working Of Our Project
+---------------------
+
+
+https://github.com/user-attachments/assets/373867e6-b3fe-43e5-8323-4142f9e7d300
+
+
+
 Conclusion
 ----------------
 
